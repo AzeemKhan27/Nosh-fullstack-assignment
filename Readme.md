@@ -64,5 +64,5 @@ npm run dev
 
 You can import the Postman collection from this JSON:
 ```
-https://gist.githubusercontent.com/exampleuser/raw/nosh-postman.json
+https://restless-shuttle-958110.postman.co/workspace/My-Workspace~db5af207-f501-4e72-8be4-2d1693ce2fa8/collection/27181311-9e7ed6c6-801b-4bdd-abc6-6ef30b395e56?action=share&creator=27181311
 ```
